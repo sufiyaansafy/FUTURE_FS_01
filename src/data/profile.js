@@ -6,12 +6,9 @@ export const profile = {
   firstNames: 'Mohammed',
   lastNames: 'Sufiyaan Safy',
   shortName: 'Sufiyaan Safy',
-  initials: 'MS',
   role: 'Aspiring Full Stack Developer',
-  currentRole: 'Full Stack Web Development Intern, Future Interns',
   tagline:
     'Final-year BSc Information Technology student in Johannesburg, building clean, responsive web applications with React, JavaScript and SQL.',
-  availabilityShort: 'Available part-time now, full-time from December 2026',
   location: 'Johannesburg, Gauteng, South Africa',
   email: 'sufiyaansafy11@gmail.com',
   phone: '082 040 0212',
@@ -19,7 +16,6 @@ export const profile = {
   github: 'https://github.com/sufiyaansafy',
   githubLabel: 'github.com/sufiyaansafy',
   linkedin: 'https://www.linkedin.com/in/MohammedSufiyaanSafy-SWE',
-  linkedinLabel: 'linkedin.com/in/MohammedSufiyaanSafy-SWE',
 }
 
 // The three layers of the stack shown in the hero, top to bottom.
