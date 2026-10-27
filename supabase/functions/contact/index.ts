@@ -8,7 +8,7 @@
 //
 // Secrets it needs (set with `supabase secrets set` or in the dashboard):
 //   RESEND_API_KEY     your Resend API key
-//   CONTACT_TO_EMAIL   where notifications go, e.g. sufiyaansafy11@gmail.com
+//   CONTACT_TO_EMAIL   where notifications go, e.g. testemail@gmail.com
 //   CONTACT_FROM_EMAIL optional, defaults to Resend's test sender
 // SUPABASE_URL and the project's secret key are provided automatically.
 //

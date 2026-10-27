@@ -16,7 +16,7 @@ export const projects = [
     id: 'fs-01',
     category: 'internship',
     step: 'Task 1',
-    when: '25 to 27 Oct 2026',
+    when: '20 to 27 Oct 2026',
     title: 'Personal portfolio website',
     status: 'Live',
     description:
@@ -30,7 +30,7 @@ export const projects = [
     id: 'fs-02',
     category: 'internship',
     step: 'Task 2',
-    when: '28 to 30 Oct 2026',
+    when: '28 to 04 Nov 2026',
     title: 'Mini CRM for an optometry practice',
     status: 'Up next',
     description:
@@ -42,7 +42,7 @@ export const projects = [
     id: 'fs-03',
     category: 'internship',
     step: 'Task 3',
-    when: '31 Oct to 2 Nov 2026',
+    when: '04 to 12 Nov 2026',
     title: 'Local business website and pitch',
     status: 'Planned',
     description:

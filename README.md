@@ -71,7 +71,7 @@ You need [Node.js](https://nodejs.org) 20.19 or newer. Create a `.env` file in t
 
 ```
 VITE_SUPABASE_URL=https://your-project-ref.supabase.co
-SITE_URL=https://sufiyaansafy.vercel.app
+SITE_URL=https://name.vercel.app
 ```
 
 Then:
@@ -120,5 +120,4 @@ The site is hosted on Vercel from this repository. Vercel detects Vite automatic
 
 ## Credits
 
-- Typeface: [Archivo](https://github.com/Omnibus-Type/Archivo) by Omnibus-Type, under the SIL Open Font License.
 - Built during the [Future Interns](https://futureinterns.com) Full Stack Web Development internship, October 2026.
