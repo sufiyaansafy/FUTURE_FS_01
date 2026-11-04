@@ -30,13 +30,16 @@ export const projects = [
     id: 'fs-02',
     category: 'internship',
     step: 'Task 2',
-    when: '28 to 04 Nov 2026',
+    when: '28 Oct to 4 Nov 2026',
     title: 'Mini CRM for an optometry practice',
-    status: 'Up next',
+    status: 'Live',
     description:
-      'A lead management system for an optometry practice. Enquiries from a “Book an eye test” form become leads the front desk can move from new to contacted to converted, with notes and follow-up dates for each one.',
-    stack: ['React', 'Supabase Auth', 'PostgreSQL', 'Row Level Security'],
-    links: [],
+      'A lead manager for Focal Point Optometry, a demo practice. Requests from a “Book an eye test” form become leads that staff move from new to contacted to converted, with notes, follow-up dates, email alerts and a view-only demo login.',
+    stack: ['React', 'Supabase Auth', 'PostgreSQL', 'Row Level Security', 'Edge Functions', 'Resend'],
+    links: [
+      { label: 'Live demo', href: 'https://focal-point-crm.vercel.app' },
+      { label: 'Source code', href: 'https://github.com/sufiyaansafy/FUTURE_FS_02' },
+    ],
   },
   {
     id: 'fs-03',
