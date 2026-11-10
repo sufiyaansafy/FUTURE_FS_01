@@ -27,7 +27,7 @@ export const stackLayers = [
 
 export const about = [
   'I’m a final-year BSc Information Technology student at Richfield Graduate Institute of Technology, with academic grounding across full stack web development, database systems, cloud computing and machine learning.',
-  'I’ve earned freeCodeCamp’s Front End Development certification and I’m working through Scrimba’s Full Stack Developer Career Path, sharpening practical skills in React, JavaScript and modern web tooling. Right now I’m also a Full Stack Web Development intern at Future Interns, shipping three real projects in nine days.',
+  'I’ve earned freeCodeCamp’s Front End Development certification and I’m working through Scrimba’s Full Stack Developer Career Path, sharpening practical skills in React, JavaScript and modern web tooling. I’ve also completed a Full Stack Web Development internship at Future Interns, shipping three real projects: this portfolio, a CRM for an optometry practice and a live website for a local takeaway.',
   'I’m looking for a graduate programme, internship or junior developer role where I can contribute to production software and grow under experienced engineers.',
 ]
 
@@ -42,7 +42,7 @@ export const strengths = [
   },
   {
     title: 'Always shipping',
-    detail: 'Certified by freeCodeCamp and IBM, working through Scrimba, and building three internship projects.',
+    detail: 'Certified by freeCodeCamp and IBM, working through Scrimba, and three internship projects shipped and live.',
   },
 ]
 

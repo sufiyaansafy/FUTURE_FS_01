@@ -45,13 +45,16 @@ export const projects = [
     id: 'fs-03',
     category: 'internship',
     step: 'Task 3',
-    when: '04 to 12 Nov 2026',
+    when: '4 to 11 Nov 2026',
     title: 'Local business website and pitch',
-    status: 'Planned',
+    status: 'Live',
     description:
-      'A website for a takeaway in my community, with the menu, trading hours, location and WhatsApp ordering, pitched to the owner as a live project.',
-    stack: ['HTML', 'CSS', 'JavaScript', 'Google Maps'],
-    links: [],
+      'A website for Akhalwayas Signet, a takeaway in Lenasia, pitched to the owner. A 3D version of the shop’s sign, a Dagwood that comes apart layer by layer as you scroll, and the full menu with an order bag that sends orders straight to the shop on WhatsApp.',
+    stack: ['React', 'Vite', 'Three.js', 'WebGL', 'CSS'],
+    links: [
+      { label: 'Live site', href: 'https://akhalwayas-signet.vercel.app' },
+      { label: 'Source code', href: 'https://github.com/sufiyaansafy/FUTURE_FS_03' },
+    ],
   },
   {
     id: 'fcc',
