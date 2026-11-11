@@ -53,7 +53,6 @@ export const projects = [
     stack: ['React', 'Vite', 'Three.js', 'WebGL', 'CSS'],
     links: [
       { label: 'Live site', href: 'https://akhalwayas-signet.vercel.app' },
-      { label: 'Source code', href: 'https://github.com/sufiyaansafy/FUTURE_FS_03' },
     ],
   },
   {
